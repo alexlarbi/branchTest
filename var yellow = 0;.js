@@ -1,1 +1,1 @@
-var yellow = 10;
+var yellow = 10
